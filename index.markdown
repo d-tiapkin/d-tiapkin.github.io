@@ -6,9 +6,9 @@ layout: default
 ---
 <img style="float: right;" width="25%" src="https://imgur.com/ldeCCKv.png">
 
-Hello! At the current moment I am researcher at [HDI Lab](https://cs.hse.ru/en/hdilab/) at [HSE University](https://www.hse.ru/en/). I am obtaining Master's degree on joint program "Math of Machine Learning" at HSE University and Skoltech.
+Hello! I am currenly researcher at [HDI Lab](https://cs.hse.ru/en/hdilab/) at [HSE University](https://www.hse.ru/en/). I have been doing Master's degree in Computer Science on joint program "Math of Machine Learning" by HSE University and Skoltech.
 
-My interests includes
+My interests include
 * Reinforcement Learning;
 * Stochastic Optimization;
 * Computational Optimal Transport.
