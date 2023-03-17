@@ -4,6 +4,7 @@ layout: default
 ---
 
 Preprints:
+* S. Schechtman, D. Tiapkin, É. Moulines, and M. Muehlebach. [*Orthogonal Directions Constrained Gradient Method: from non-linear equality constraints to Stiefel manifold*](https://arxiv.org/abs/2303.09261), 2023;
 * D. Tiapkin, D. Belomestny, D. Calandriello, É. Moulines, R. Munos, A. Naumov, P. Perrault, Y. Tang,  M. Valko, P. Ménard. ["Fast Rates for Maximum Entropy Exploration"](https://arxiv.org/abs/2303.08059), 2023.
 
 Conference papers:
