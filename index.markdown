@@ -16,4 +16,4 @@ Email: dtyapkin at hse.ru | [Google Scholar Page](https://scholar.google.ru/cita
 
 # News
 
-- <span style="color:red"> :fire:New:fire: </span> **April 25th 2023**. The paper ["Fast Rates for Maximum Entropy Exploration"]((https://arxiv.org/abs/2303.08059)) was accepted at ICML-2023!
+- <span style="color:red"> &#128293;New&#128293; </span> **April 25th 2023**. The paper ["Fast Rates for Maximum Entropy Exploration"]((https://arxiv.org/abs/2303.08059)) was accepted at ICML-2023!
