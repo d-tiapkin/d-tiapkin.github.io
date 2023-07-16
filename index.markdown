@@ -16,5 +16,5 @@ Email: dtyapkin at hse.ru | [Google Scholar Page](https://scholar.google.ru/cita
 
 # News
 
-- <span style="color:red"> &#128293;New&#128293; </span>  **July 2023** The paper ["Orthogonal Directions Constrained Gradient Method: from non-linear equality constraints to Stiefel manifold"](https://proceedings.mlr.press/v195/schechtman23a.html) were presented at COLT-2023!
+- <span style="color:red"> &#128293;New&#128293; </span>  **July 14th 2023** The paper ["Orthogonal Directions Constrained Gradient Method: from non-linear equality constraints to Stiefel manifold"](https://proceedings.mlr.press/v195/schechtman23a.html) were presented at COLT-2023!
 -  **April 25th 2023**. The paper ["Fast Rates for Maximum Entropy Exploration"](https://arxiv.org/abs/2303.08059) was accepted at ICML-2023!
