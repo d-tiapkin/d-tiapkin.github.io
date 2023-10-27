@@ -4,7 +4,7 @@
 
 layout: default
 ---
-<img style="float: right;" width="26%" src="https://imgur.com/ldeCCKv.png">
+<img style="float: right;" width="40%" src="https://imgur.com/ldeCCKv.png">
 
 Hello! I am PhD student in RL Theory at CMAP, École Polytechnique, France, under supervision of Prof. [Éric Moulines](https://scholar.google.com/citations?user=_XE1LvQAAAAJ).
 
@@ -15,7 +15,7 @@ My interests include
 * Connection of RL to other ML problems;
 * Stochastic Optimization;
 
-Email: daniil.tiapkin at polytechnique.edu | [Google Scholar Page](https://scholar.google.ru/citations?user=AB23PXQAAAAJ&hl=ru) |  [ORCID Page](https://orcid.org/0000-0002-8832-7926) | [HSE webpage](https://www.hse.ru/en/staff/dtiapkin)
+Email: daniil.tiapkin at polytechnique.edu | [Google Scholar](https://scholar.google.ru/citations?user=AB23PXQAAAAJ&hl=ru) |  [ORCID](https://orcid.org/0000-0002-8832-7926) | [HSE webpage](https://www.hse.ru/en/staff/dtiapkin)
 
 # News
 
