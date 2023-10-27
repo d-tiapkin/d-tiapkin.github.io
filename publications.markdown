@@ -4,8 +4,9 @@ layout: default
 ---
 
 Preprints:
+* D. Tiapkin, D. Belomestny, D. Calandriello, É. Moulines, A. Naumov, P. Perrault, M. Valko, P. Ménard. [*Demonstration-Regularized RL*](arxiv.org/abs/2310.17303), 2023.
 * D. Tiapkin\*, N. Morozov\*, A. Naumov, D. Vetrov. [*Generative Flow Networks as Entropy-Regularized RL*](https://arxiv.org/abs/2310.12934), 2023.
-* S. Samsonov, D. Tiapkin, A. Naumov, É. Moulines [*Finite-Sample Analysis of the Temporal Difference Learning*](https://arxiv.org/abs/2310.14286), 2023.
+* S. Samsonov, D. Tiapkin, A. Naumov, É. Moulines. [*Finite-Sample Analysis of the Temporal Difference Learning*](https://arxiv.org/abs/2310.14286), 2023.
 * D. Belomestny, P. Ménard, A. Naumov, D. Tiapkin, M. Valko. [*Sharp Deviations Bounds for Dirichlet Weighted Sums with Application to analysis of Bayesian algorithms*](https://arxiv.org/abs/2304.03056), 2023.
 
 
