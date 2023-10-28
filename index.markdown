@@ -4,7 +4,7 @@
 
 layout: default
 ---
-<img style="float: right;" width="40%" src="https://imgur.com/ldeCCKv.png">
+<img style="float: right;" width="30%" src="https://imgur.com/ldeCCKv.png">
 
 Hello! I am PhD student in RL Theory at CMAP, École Polytechnique, France, under supervision of Prof. [Éric Moulines](https://scholar.google.com/citations?user=_XE1LvQAAAAJ).
 
