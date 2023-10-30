@@ -11,7 +11,7 @@ Preprints:
 
 
 Conference papers:
-* D. Tiapkin, D. Belomestny, D. Calandriello, É. Moulines, R. Munos, A. Naumov, P. Perrault, M. Valko, P. Ménard. "Model-free Posterior Sampling via Learning Rate Randomization", NeurIPS 2023;
+* D. Tiapkin, D. Belomestny, D. Calandriello, É. Moulines, R. Munos, A. Naumov, P. Perrault, M. Valko, P. Ménard. [*Model-free Posterior Sampling via Learning Rate Randomization*](http://arxiv.org/abs/2310.18186), NeurIPS 2023;
 * D. Tiapkin, D. Belomestny, D. Calandriello, É. Moulines, R. Munos, A. Naumov, P. Perrault, Y. Tang,  M. Valko, P. Ménard. [*Fast Rates for Maximum Entropy Exploration*](https://proceedings.mlr.press/v202/tiapkin23a.html), ICML 2023;
 * S. Schechtman, D. Tiapkin, É. Moulines, and M. Muehlebach. [*Orthogonal Directions Constrained Gradient Method: from non-linear equality constraints to Stiefel manifold*](https://proceedings.mlr.press/v195/schechtman23a.html), COLT 2023;
 * D. Tiapkin, D. Belomestny, D. Calandriello, É. Moulines, R. Munos, A. Naumov, M. Rowland, M. Valko, P. Ménard. [*Optimistic Posterior Sampling for Reinforcement Learning with Few Samples and Tight Guarantees*](https://proceedings.neurips.cc/paper_files/paper/2022/hash/45e15bae91a6f213d45e203b8a29be48-Abstract-Conference.html), NeurIPS 2022;

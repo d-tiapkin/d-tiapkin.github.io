@@ -20,6 +20,6 @@ Email: daniil.tiapkin at polytechnique.edu | [Google Scholar](https://scholar.go
 # News
 
 - <span style="color:red"> &#128293;New&#128293; </span> **September 2023**. I moved to École Polytechnique, France for pursuing PhD degree.
-- <span style="color:red"> &#128293;New&#128293; </span>  **September 2023**. The paper "Model-free Posterior Sampling via Learning Rate Randomization" was accepted at NeurIPS-2023!
+- <span style="color:red"> &#128293;New&#128293; </span>  **September 2023**. The paper ["Model-free Posterior Sampling via Learning Rate Randomization"](http://arxiv.org/abs/2310.18186) was accepted at NeurIPS-2023!
 - **July 14th 2023** The paper ["Orthogonal Directions Constrained Gradient Method: from non-linear equality constraints to Stiefel manifold"](https://proceedings.mlr.press/v195/schechtman23a.html) was presented at COLT-2023!
 -  **April 25th 2023**. The paper ["Fast Rates for Maximum Entropy Exploration"](https://proceedings.mlr.press/v202/tiapkin23a.html) was accepted at ICML-2023!
