@@ -3,12 +3,12 @@ title: Publications
 layout: default
 ---
 
-**Notation:** "&#8902" means equal contribution, "+" means alphabetic orderig.
+**Notation:** "&#8902;" means equal contribution, "+" means alphabetic orderig.
 
 
 **Preprints:**
 * D. Tiapkin, D. Belomestny, D. Calandriello, É. Moulines, A. Naumov, P. Perrault, M. Valko, P. Ménard. [*Demonstration-Regularized RL*](arxiv.org/abs/2310.17303), 2023.
-* D. Tiapkin<sup>&#8902</sup>, N. Morozov<sup>&#8902</sup>, A. Naumov, D. Vetrov. [*Generative Flow Networks as Entropy-Regularized RL*](https://arxiv.org/abs/2310.12934), 2023.
+* D. Tiapkin<sup>&#8902;</sup>, N. Morozov<sup>&#8902;</sup>, A. Naumov, D. Vetrov. [*Generative Flow Networks as Entropy-Regularized RL*](https://arxiv.org/abs/2310.12934), 2023.
 * S. Samsonov, D. Tiapkin, A. Naumov, É. Moulines. [*Finite-Sample Analysis of the Temporal Difference Learning*](https://arxiv.org/abs/2310.14286), 2023.
 * D. Belomestny<sup>+</sup>, P. Ménard<sup>+</sup>, A. Naumov<sup>+</sup>, D. Tiapkin<sup>+</sup>, M. Valko<sup>+</sup>. [*Sharp Deviations Bounds for Dirichlet Weighted Sums with Application to analysis of Bayesian algorithms*](https://arxiv.org/abs/2304.03056), 2023.
 
