@@ -6,7 +6,7 @@ layout: default
 ---
 <img style="float: right;" width="30%" src="https://imgur.com/ldeCCKv.png">
 
-Hello! I am PhD student in RL Theory, pursuing double PhD at CMAP, École Polytechnique, and LMO, Université Paris-Saclay under supervision of [Éric Moulines](https://scholar.google.com/citations?user=_XE1LvQAAAAJ) and [Gilles Stoltz](https://www.imo.universite-paris-saclay.fr/fr/perso/gilles-stoltz/).
+Hello! I am a PhD student in RL Theory, pursuing double PhD at CMAP, École Polytechnique, and LMO, Université Paris-Saclay under supervision of [Éric Moulines](https://scholar.google.com/citations?user=_XE1LvQAAAAJ) and [Gilles Stoltz](https://www.imo.universite-paris-saclay.fr/fr/perso/gilles-stoltz/).
 
 Additionally, I was doing research at [HDI Lab](https://cs.hse.ru/en/hdilab/) at [HSE University](https://www.hse.ru/en/). I did my Master's degree in Applied Mathematics and Computer Science on the program "Math of Machine Learning" by HSE University.
 
