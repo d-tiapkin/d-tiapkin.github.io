@@ -7,12 +7,13 @@ layout: default
 
 
 **Preprints:**
-* S. Samsonov, D. Tiapkin, A. Naumov, É. Moulines. [*Finite-Sample Analysis of the Temporal Difference Learning*](https://arxiv.org/abs/2310.14286), 2023.
 * D. Belomestny<sup>+</sup>, P. Ménard<sup>+</sup>, A. Naumov<sup>+</sup>, D. Tiapkin<sup>+</sup>, M. Valko<sup>+</sup>. [*Sharp Deviations Bounds for Dirichlet Weighted Sums with Application to analysis of Bayesian algorithms*](https://arxiv.org/abs/2304.03056), 2023.
 
 
 **Conference papers:**
-* D. Tiapkin<sup>&#8902;</sup>, N. Morozov<sup>&#8902;</sup>, A. Naumov, D. Vetrov. [*Generative Flow Networks as Entropy-Regularized RL*](https://arxiv.org/abs/2310.12934), AISTATS 2024 (Oral).
+* A. Scheid, D. Tiapkin, E. Boursier, A. Capitaine, E. M. El Mhamdi, E. Moulines, M. I. Jordan, A. Durmus. [*Incentivized Learning in Principal-Agent Bandit Games*](https://arxiv.org/abs/2403.03811), ICML 2024.
+* S. Samsonov, D. Tiapkin, A. Naumov, É. Moulines. [*Finite-Sample Analysis of the Temporal Difference Learning*](https://arxiv.org/abs/2310.14286), COLT 2024.
+* D. Tiapkin<sup>&#8902;</sup>, N. Morozov<sup>&#8902;</sup>, A. Naumov, D. Vetrov. [*Generative Flow Networks as Entropy-Regularized RL*](https://proceedings.mlr.press/v238/tiapkin24a.html), AISTATS 2024 (Oral).
 * D. Tiapkin, D. Belomestny, D. Calandriello, É. Moulines, A. Naumov, P. Perrault, M. Valko, P. Ménard. [*Demonstration-Regularized RL*](https://arxiv.org/abs/2310.17303), ICLR 2024.
 * D. Tiapkin, D. Belomestny, D. Calandriello, É. Moulines, R. Munos, A. Naumov, P. Perrault, M. Valko, P. Ménard. [*Model-free Posterior Sampling via Learning Rate Randomization*](https://arxiv.org/abs/2310.18186), NeurIPS 2023;
 * D. Tiapkin, D. Belomestny, D. Calandriello, É. Moulines, R. Munos, A. Naumov, P. Perrault, Y. Tang,  M. Valko, P. Ménard. [*Fast Rates for Maximum Entropy Exploration*](https://proceedings.mlr.press/v202/tiapkin23a.html), ICML 2023;
