@@ -4,7 +4,7 @@
 
 layout: default
 ---
-<img style="float: right;" width="30%" src="https://imgur.com/mT3wCxI.png">
+<img style="float: right;" width="50%" src="https://imgur.com/mT3wCxI.png">
 
 Hello! I am a PhD student in Reinforcement Learning, pursuing double PhD at CMAP, École Polytechnique, and LMO, Université Paris-Saclay under supervision of [Éric Moulines](https://scholar.google.com/citations?user=_XE1LvQAAAAJ) and [Gilles Stoltz](https://www.imo.universite-paris-saclay.fr/fr/perso/gilles-stoltz/). 
 
