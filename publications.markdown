@@ -7,10 +7,19 @@ layout: default
 
 
 **Preprints:**
+* D. Tiapkin, D. Calandriello, J. Ferret, S. Perrin, N. Vieillard, A. Ramé, M. Blondel. [*On Teacher Hacking in Language Model Distillation*](https://arxiv.org/abs/2502.02671), 2025.
+* N. Morozov, I. Maksimov, D. Tiapkin, S. Samsonov. [*Revisiting Non-Acyclic GFlowNets in Discrete Environments*](https://arxiv.org/abs/2502.07735), 2025.
+* P. Perrault, D. Belomestny, P. Ménard, É. Moulines, A. Naumov, D. Tiapkin, M. Valko. [*A New Bound on the Cumulant Generating Function of Dirichlet Processes*](https://arxiv.org/abs/2409.18621), 2024.
 * D. Belomestny<sup>+</sup>, P. Ménard<sup>+</sup>, A. Naumov<sup>+</sup>, D. Tiapkin<sup>+</sup>, M. Valko<sup>+</sup>. [*Sharp Deviations Bounds for Dirichlet Weighted Sums with Application to analysis of Bayesian algorithms*](https://arxiv.org/abs/2304.03056), 2023.
 
 
+**Workshop papers:**
+* N. Morozov, D. Tiapkin, S. Samsonov, A. Naumov, D. Vetrov. [*Improving GFlowNets with Monte Carlo Tree Search*](https://arxiv.org/abs/2406.13655), ICML 2024 SPIGM Workshop.
+
 **Conference papers:**
+* D. Tiapkin, E.Chzen, G.Stoltz. [*Narrowing the Gap between Adversarial and Stochastic MDPs via Policy Optimization*](https://arxiv.org/abs/2407.05704), AISTATS 2025.
+* S. Labbi, D. Tiapkin, L. Mancini, P. Mangold, E. Moulines. [*Federated UCBVI: Communication-Efficient Federated Regret Minimization with Heterogeneous Agents*](https://arxiv.org/abs/2410.22908), AISTATS 2025.
+* T. Gritsaev, N. Morozov, S. Samsonov, D. Tiapkin. [*Optimizing Backward Policies in GFlowNets via Trajectory Likelihood Maximization*](https://arxiv.org/abs/2410.15474), ICLR 2025.
 * A. Scheid, D. Tiapkin, E. Boursier, A. Capitaine, E. M. El Mhamdi, E. Moulines, M. I. Jordan, A. Durmus. [*Incentivized Learning in Principal-Agent Bandit Games*](https://arxiv.org/abs/2403.03811), ICML 2024.
 * S. Samsonov, D. Tiapkin, A. Naumov, É. Moulines. [*Finite-Sample Analysis of the Temporal Difference Learning*](https://arxiv.org/abs/2310.14286), COLT 2024.
 * D. Tiapkin<sup>&#8902;</sup>, N. Morozov<sup>&#8902;</sup>, A. Naumov, D. Vetrov. [*Generative Flow Networks as Entropy-Regularized RL*](https://proceedings.mlr.press/v238/tiapkin24a.html), AISTATS 2024 (Oral).
