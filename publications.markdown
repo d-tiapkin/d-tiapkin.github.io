@@ -7,10 +7,13 @@ layout: default
 
 
 **Preprints:**
-* D. Tiapkin, D. Calandriello, J. Ferret, S. Perrin, N. Vieillard, A. Ramé, M. Blondel. [*On Teacher Hacking in Language Model Distillation*](https://arxiv.org/abs/2502.02671), 2025.
+* D. Tiapkin, D. Calandriello, J. Ferret, S. Perrin, N. Vieillard, A. Ramé, M. Blondel. [*On Teacher Hacking in Language Model Distillation*](https://arxiv.org/abs/2502.02671), 2025. [<img height="20pt" src="https://imgur.com/SW7mnRb.png">](https://arxiv.org/pdf/2502.02671.pdf)
 * N. Morozov, I. Maksimov, D. Tiapkin, S. Samsonov. [*Revisiting Non-Acyclic GFlowNets in Discrete Environments*](https://arxiv.org/abs/2502.07735), 2025.
 * P. Perrault, D. Belomestny, P. Ménard, É. Moulines, A. Naumov, D. Tiapkin, M. Valko. [*A New Bound on the Cumulant Generating Function of Dirichlet Processes*](https://arxiv.org/abs/2409.18621), 2024.
-* D. Belomestny<sup>+</sup>, P. Ménard<sup>+</sup>, A. Naumov<sup>+</sup>, D. Tiapkin<sup>+</sup>, M. Valko<sup>+</sup>. [*Sharp Deviations Bounds for Dirichlet Weighted Sums with Application to analysis of Bayesian algorithms*](https://arxiv.org/abs/2304.03056), 2023.
+* D. Belomestny<sup>+</sup>, P. Ménard<sup>+</sup>, A. Naumov<sup>+</sup>, D. Tiapkin<sup>+</sup>, M. Valko<sup>+</sup>. [*Sharp Deviations Bounds for Dirichlet Weighted Sums with Application to analysis of Bayesian algorithms*](https://arxiv.org/abs/2304.03056), 2023. 
+
+
+
 
 
 **Workshop papers:**
