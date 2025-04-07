@@ -17,7 +17,7 @@ layout: default
 * N. Morozov, D. Tiapkin, S. Samsonov, A. Naumov, D. Vetrov. [*Improving GFlowNets with Monte Carlo Tree Search*](https://arxiv.org/abs/2406.13655), ICML 2024 SPIGM Workshop.
 
 **Conference papers:**
-* D. Tiapkin, E.Chzen, G.Stoltz. [*Narrowing the Gap between Adversarial and Stochastic MDPs via Policy Optimization*](https://arxiv.org/abs/2407.05704), AISTATS 2025.
+* D. Tiapkin, E.Chzhen, G.Stoltz. [*Narrowing the Gap between Adversarial and Stochastic MDPs via Policy Optimization*](https://arxiv.org/abs/2407.05704), AISTATS 2025.
 * S. Labbi, D. Tiapkin, L. Mancini, P. Mangold, E. Moulines. [*Federated UCBVI: Communication-Efficient Federated Regret Minimization with Heterogeneous Agents*](https://arxiv.org/abs/2410.22908), AISTATS 2025.
 * T. Gritsaev, N. Morozov, S. Samsonov, D. Tiapkin. [*Optimizing Backward Policies in GFlowNets via Trajectory Likelihood Maximization*](https://arxiv.org/abs/2410.15474), ICLR 2025.
 * A. Scheid, D. Tiapkin, E. Boursier, A. Capitaine, E. M. El Mhamdi, E. Moulines, M. I. Jordan, A. Durmus. [*Incentivized Learning in Principal-Agent Bandit Games*](https://arxiv.org/abs/2403.03811), ICML 2024.
