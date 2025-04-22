@@ -13,8 +13,8 @@ Recently, I was a student-researcher at Google DeepMind Paris, where I studied d
 Additionally, I was doing research at [HDI Lab](https://cs.hse.ru/en/hdilab/) at [HSE University](https://www.hse.ru/en/). I did my Master's degree in Applied Mathematics and Computer Science on the program "Math of Machine Learning" by HSE University.
 
 My research interests include
-* Reinforcement Learning Theory;
-* LLM post-training: RLHF, Distillation;
+* Reinforcement learning theory;
+* Foundational model post-training: RLHF, Distillation;
 * Connections between RL and sampling problems;
 
 Email: daniil.tiapkin@polytechnique.edu | [Google Scholar](https://scholar.google.com/citations?user=AB23PXQAAAAJ) |  [ORCID](https://orcid.org/0000-0002-8832-7926)
