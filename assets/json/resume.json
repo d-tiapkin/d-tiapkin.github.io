@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "name": "Daniil Tiapkin",
+    "label": "Research Scientist, Google DeepMind",
+    "image": "",
+    "url": "https://d-tiapkin.github.io",
+    "summary": "Research Scientist at Google DeepMind in Paris, working on foundation-model post-training.\n\nI received my PhD in Applied Mathematics & Computer Science from École Polytechnique and Université Paris-Saclay (2025), advised by Éric Moulines and Gilles Stoltz.\n\nMy research interests include reinforcement learning, post-training of foundation models, and the connections between amortized sampling and RL.",
+    "profiles": [
+      { "network": "Google Scholar", "username": "Daniil Tiapkin", "url": "https://scholar.google.com/citations?user=AB23PXQAAAAJ" },
+      { "network": "GitHub", "username": "d-tiapkin", "url": "https://github.com/d-tiapkin" },
+      { "network": "ORCID", "username": "0000-0002-8832-7926", "url": "https://orcid.org/0000-0002-8832-7926" }
+    ]
+  },
+  "work": [
+    {
+      "name": "Google DeepMind",
+      "position": "Research Scientist",
+      "location": "Paris, France",
+      "startDate": "2026-02-01",
+      "endDate": "",
+      "summary": "Research on post-training of foundation models.",
+      "highlights": []
+    },
+    {
+      "name": "Google DeepMind",
+      "position": "Student Researcher",
+      "location": "Paris, France",
+      "startDate": "2024-09-01",
+      "endDate": "2024-12-01",
+      "summary": "Research on language-model distillation, supervised by Mathieu Blondel.",
+      "highlights": [
+        "<em>On Teacher Hacking in Language Model Distillation</em> — ICML 2025."
+      ]
+    },
+    {
+      "name": "École Polytechnique (CMAP) — Institut Polytechnique de Paris & LMO, Université Paris-Saclay",
+      "position": "PhD Candidate",
+      "location": "Paris, France",
+      "startDate": "2023-09-01",
+      "endDate": "2026-01-14",
+      "summary": "Advised by Éric Moulines and Gilles Stoltz. Thesis: <a href=\"https://theses.fr/2025IPPAX069\"><em>Sample-Efficient Reinforcement Learning: Exploration, Imitation, and Online Learning</em></a>.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "École Polytechnique & Université Paris-Saclay",
+      "location": "Paris, France",
+      "url": "https://theses.fr/2025IPPAX069",
+      "area": "",
+      "studyType": "PhD in Applied Mathematics & Computer Science",
+      "startDate": "2023-09-01",
+      "endDate": "2025-09-16",
+      "score": "",
+      "courses": [
+        "Thesis: <em>Sample-Efficient Reinforcement Learning: Exploration, Imitation, and Online Learning</em>",
+        "Advisors: Éric Moulines (CMAP, École Polytechnique) and Gilles Stoltz (LMO, Université Paris-Saclay)"
+      ]
+    },
+    {
+      "institution": "HSE University (Faculty of Computer Science)",
+      "location": "Moscow, Russia",
+      "url": "",
+      "area": "",
+      "studyType": "MSc in Applied Mathematics & Computer Science",
+      "startDate": "2021-09-01",
+      "endDate": "2023-06-01",
+      "score": "",
+      "courses": [
+        "Program: <em>Math of Machine Learning</em>"
+      ]
+    },
+    {
+      "institution": "HSE University (Faculty of Computer Science)",
+      "location": "Moscow, Russia",
+      "url": "",
+      "area": "",
+      "studyType": "BSc in Applied Mathematics & Computer Science",
+      "startDate": "2017-09-01",
+      "endDate": "2021-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Oral presentation, AISTATS 2024",
+      "date": "2024-05-01",
+      "awarder": "AISTATS",
+      "summary": "<em>Generative Flow Networks as Entropy-Regularized RL</em> selected for oral presentation."
+    },
+    {
+      "title": "Oral presentation, ICML 2022",
+      "date": "2022-07-01",
+      "awarder": "ICML",
+      "summary": "<em>From Dirichlet to Rubin: Optimistic Exploration in RL without Bonuses</em> selected for oral presentation."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Beyond Softmax and Entropy: Convergence Rates of Policy Gradients with f-SoftArgmax Parameterization & Coupled Regularization",
+      "publisher": "ICLR 2026",
+      "releaseDate": "2026-04-01",
+      "url": "https://arxiv.org/abs/2601.12604",
+      "summary": "S. Labbi, D. Tiapkin, P. Mangold, É. Moulines."
+    },
+    {
+      "name": "On Teacher Hacking in Language Model Distillation",
+      "publisher": "ICML 2025",
+      "releaseDate": "2025-07-01",
+      "url": "https://arxiv.org/abs/2502.02671",
+      "summary": "D. Tiapkin, D. Calandriello, J. Ferret, S. Perrin, N. Vieillard, A. Ramé, M. Blondel."
+    },
+    {
+      "name": "Demonstration-Regularized RL",
+      "publisher": "ICLR 2024",
+      "releaseDate": "2024-05-01",
+      "url": "https://arxiv.org/abs/2310.17303",
+      "summary": "D. Tiapkin, D. Belomestny, D. Calandriello, É. Moulines, A. Naumov, P. Perrault, M. Valko, P. Ménard."
+    },
+    {
+      "name": "Generative Flow Networks as Entropy-Regularized RL",
+      "publisher": "AISTATS 2024 (Oral)",
+      "releaseDate": "2024-05-01",
+      "url": "https://arxiv.org/abs/2310.12934",
+      "summary": "D. Tiapkin<sup>&#8902;</sup>, N. Morozov<sup>&#8902;</sup>, A. Naumov, D. Vetrov. (<sup>&#8902;</sup> equal contribution)"
+    },
+    {
+      "name": "From Dirichlet to Rubin: Optimistic Exploration in RL without Bonuses",
+      "publisher": "ICML 2022 (Oral)",
+      "releaseDate": "2022-07-01",
+      "url": "https://arxiv.org/abs/2205.07704",
+      "summary": "D. Tiapkin, D. Belomestny, É. Moulines, A. Naumov, S. Samsonov, Y. Tang, M. Valko, P. Ménard."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Research areas",
+      "keywords": [
+        "Reinforcement learning",
+        "Foundation-model post-training (RLHF, distillation)",
+        "Online learning and bandits",
+        "Sampling and Bayesian methods"
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": ["Python", "JAX", "PyTorch", "NumPy", "C++"]
+    }
+  ],
+  "languages": [
+    { "language": "English", "fluency": "C1" },
+    { "language": "French", "fluency": "B1" },
+    { "language": "Russian", "fluency": "Native" }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "gfnx",
+      "summary": "Fast and scalable JAX library for Generative Flow Networks.",
+      "highlights": [
+        "GitHub: [github.com/d-tiapkin/gfnx](https://github.com/d-tiapkin/gfnx)",
+        "PyPI: [pypi.org/project/gfnx](https://pypi.org/project/gfnx/)",
+        "Docs: [gfnx.readthedocs.io](https://gfnx.readthedocs.io)",
+        "Paper: [arXiv:2511.16592](https://arxiv.org/abs/2511.16592)"
+      ],
+      "startDate": "2025-11-20",
+      "endDate": "",
+      "url": "https://github.com/d-tiapkin/gfnx"
+    }
+  ]
+}
