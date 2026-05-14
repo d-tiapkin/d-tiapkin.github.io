@@ -22,7 +22,7 @@ latest_posts:
   enabled: false
 ---
 
-Hello! I am a Research Scientist at **Google DeepMind** in Paris, working on reinforcement learning, foundation-model post-training, and the connections between RL and sampling.
+Hello! I am a Research Scientist at **Google DeepMind** in Paris, working on reinforcement learning and foundation-model post-training in general.
 
 I defended my PhD in September 2025 at CMAP, École Polytechnique (Institut Polytechnique de Paris) and LMO, Université Paris-Saclay, under the supervision of [Éric Moulines](https://scholar.google.com/citations?user=_XE1LvQAAAAJ) and [Gilles Stoltz](https://www.imo.universite-paris-saclay.fr/fr/perso/gilles-stoltz/). My thesis, [*Sample-Efficient Reinforcement Learning: Exploration, Imitation, and Online Learning*](https://theses.fr/2025IPPAX069), is available online.
 
