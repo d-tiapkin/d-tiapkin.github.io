@@ -1,3 +1,7 @@
-# My Personal Site
+# d-tiapkin.github.io
 
-Based on Jerkyll and GitHub Pages.
+Personal academic website built with the [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme.
+
+## License
+
+MIT
