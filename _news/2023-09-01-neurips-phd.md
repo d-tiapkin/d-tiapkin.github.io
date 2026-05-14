@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[*Model-free Posterior Sampling via Learning Rate Randomization*](https://arxiv.org/abs/2310.18186) accepted at NeurIPS 2023. I also moved to École Polytechnique, France, to pursue my PhD.
+[_Model-free Posterior Sampling via Learning Rate Randomization_](https://arxiv.org/abs/2310.18186) accepted at NeurIPS 2023. I also moved to École Polytechnique, France, to pursue my PhD.

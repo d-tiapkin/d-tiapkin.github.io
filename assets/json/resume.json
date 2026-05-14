@@ -28,9 +28,7 @@
       "startDate": "2024-09-01",
       "endDate": "2024-12-01",
       "summary": "Research on language-model distillation, supervised by Mathieu Blondel.",
-      "highlights": [
-        "<em>On Teacher Hacking in Language Model Distillation</em> — ICML 2025."
-      ]
+      "highlights": ["<em>On Teacher Hacking in Language Model Distillation</em> — ICML 2025."]
     },
     {
       "name": "École Polytechnique (CMAP) — Institut Polytechnique de Paris & LMO, Université Paris-Saclay",
@@ -67,9 +65,7 @@
       "startDate": "2021-09-01",
       "endDate": "2023-06-01",
       "score": "",
-      "courses": [
-        "Program: <em>Math of Machine Learning</em>"
-      ]
+      "courses": ["Program: <em>Math of Machine Learning</em>"]
     },
     {
       "institution": "HSE University (Faculty of Computer Science)",

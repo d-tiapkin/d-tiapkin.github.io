@@ -305,7 +305,9 @@ layout: default
           <a class="anchor" id="publications"></a>
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">Selected Publications</h3>
-            <p class="card-text font-weight-light"><em>For the full and up-to-date list, see the <a href="{{ '/publications/' | relative_url }}">publications page</a>.</em></p>
+            <p class="card-text font-weight-light">
+              <em>For the full and up-to-date list, see the <a href="{{ '/publications/' | relative_url }}">publications page</a>.</em>
+            </p>
             <div>
               {% assign entries = site.data.resume.publications %}
               {% include cv/publications.liquid %}
