@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://d-tiapkin.github.io/sitemap.xml
